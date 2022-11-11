@@ -1,0 +1,8 @@
+.home-container {
+  padding: 10px;
+}
+
+.home-container .search .component {
+  margin: 5px;
+  height: 55px;
+}

@@ -1,0 +1,29 @@
+{
+  "00001": {
+    "name": "Nguyen Van A",
+    "history": {
+      "2022-11-01": {
+        "08:00": {"time": "08:00", "medicine": "Thuoc 1", "checked": true},
+        "10:00": {"time": "10:00", "medicine": "Thuoc 1", "checked": true},
+        "12:00": {"time": "12:00", "medicine": "Thuoc 1", "checked": false},
+        "14:00": {"time": "14:00", "medicine": "Thuoc 1", "checked": false},
+        "16:00": {"time": "16:00", "medicine": "Thuoc 1", "checked": false},
+        "18:00": {"time": "18:00", "medicine": "Thuoc 1", "checked": false}
+      },
+      "2022-11-02": {},
+      "2022-11-03": {},
+      "2022-11-04": {},
+      "2022-11-05": {}
+    }
+  },
+  "00002": {
+    "name": "Pham Van B",
+    "history": {
+      "2022-11-01": {},
+      "2022-11-02": {},
+      "2022-11-03": {},
+      "2022-11-04": {},
+      "2022-11-05": {}
+    }
+  }
+}
