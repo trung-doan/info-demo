@@ -3,12 +3,12 @@
     "name": "Nguyen Van A",
     "history": {
       "2022-11-01": [
-        {"time": "08:00", "medicine": "Thuoc 1", "checked": true},
-        {"time": "10:00", "medicine": "Thuoc 1", "checked": true},
-        {"time": "12:00", "medicine": "Thuoc 1", "checked": false},
-        {"time": "14:00", "medicine": "Thuoc 1", "checked": false},
-        {"time": "16:00", "medicine": "Thuoc 1", "checked": false},
-        {"time": "18:00", "medicine": "Thuoc 1", "checked": false}
+        {"time": "08:00", "medicine": "Thuoc 1", "checked": "true"},
+        {"time": "10:00", "medicine": "Thuoc 1", "checked": "true"},
+        {"time": "12:00", "medicine": "Thuoc 1", "checked": "false"},
+        {"time": "14:00", "medicine": "Thuoc 1", "checked": "false"},
+        {"time": "16:00", "medicine": "Thuoc 1", "checked": "false"},
+        {"time": "18:00", "medicine": "Thuoc 1", "checked": "false"}
       ],
       "2022-11-02": {},
       "2022-11-03": {},
